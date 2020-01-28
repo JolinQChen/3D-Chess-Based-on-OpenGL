@@ -1,3 +1,3 @@
-/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug/CMakeFiles/hw6.dir
+/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug/CMakeFiles/hw6.dir

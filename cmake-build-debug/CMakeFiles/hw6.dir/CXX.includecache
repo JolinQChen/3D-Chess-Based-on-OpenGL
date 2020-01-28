@@ -6,17 +6,35 @@
 
 #IncludeRegexTransform: 
 
-/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/Model.h
+/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/Model.cpp
+Model.h
+/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/Model.h
+fstream
+-
+sstream
+-
+cstring
+-
+cstdlib
+-
+iostream
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+
+/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/Model.h
 vector
 -
 string
 -
 
-/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/main.cpp
+/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/main.cpp
 iostream
 -
 Model.h
-/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/Model.h
+/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/Model.h
 stdio.h
 -
 math.h

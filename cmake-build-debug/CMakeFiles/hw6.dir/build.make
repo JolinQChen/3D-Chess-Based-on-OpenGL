@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl
+CMAKE_SOURCE_DIR = /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/hw6.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/hw6.dir/flags.make
 
 CMakeFiles/hw6.dir/main.cpp.o: CMakeFiles/hw6.dir/flags.make
 CMakeFiles/hw6.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hw6.dir/main.cpp.o"
-	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw6.dir/main.cpp.o -c /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hw6.dir/main.cpp.o"
+	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw6.dir/main.cpp.o -c /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/main.cpp
 
 CMakeFiles/hw6.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw6.dir/main.cpp.i"
-	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/main.cpp > CMakeFiles/hw6.dir/main.cpp.i
+	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/main.cpp > CMakeFiles/hw6.dir/main.cpp.i
 
 CMakeFiles/hw6.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw6.dir/main.cpp.s"
-	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/main.cpp -o CMakeFiles/hw6.dir/main.cpp.s
+	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/main.cpp -o CMakeFiles/hw6.dir/main.cpp.s
 
 CMakeFiles/hw6.dir/Model.cpp.o: CMakeFiles/hw6.dir/flags.make
 CMakeFiles/hw6.dir/Model.cpp.o: ../Model.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hw6.dir/Model.cpp.o"
-	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw6.dir/Model.cpp.o -c /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/Model.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hw6.dir/Model.cpp.o"
+	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw6.dir/Model.cpp.o -c /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/Model.cpp
 
 CMakeFiles/hw6.dir/Model.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw6.dir/Model.cpp.i"
-	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/Model.cpp > CMakeFiles/hw6.dir/Model.cpp.i
+	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/Model.cpp > CMakeFiles/hw6.dir/Model.cpp.i
 
 CMakeFiles/hw6.dir/Model.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw6.dir/Model.cpp.s"
-	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/Model.cpp -o CMakeFiles/hw6.dir/Model.cpp.s
+	/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/Model.cpp -o CMakeFiles/hw6.dir/Model.cpp.s
 
 # Object files for target hw6
 hw6_OBJECTS = \
@@ -95,7 +95,7 @@ hw6: CMakeFiles/hw6.dir/main.cpp.o
 hw6: CMakeFiles/hw6.dir/Model.cpp.o
 hw6: CMakeFiles/hw6.dir/build.make
 hw6: CMakeFiles/hw6.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hw6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hw6"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hw6.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/hw6.dir/clean:
 .PHONY : CMakeFiles/hw6.dir/clean
 
 CMakeFiles/hw6.dir/depend:
-	cd /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug /Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug/CMakeFiles/hw6.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug /Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug/CMakeFiles/hw6.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/hw6.dir/depend
 

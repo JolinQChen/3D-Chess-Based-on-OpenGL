@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/Model.cpp" "/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug/CMakeFiles/hw6.dir/Model.cpp.o"
-  "/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/main.cpp" "/Users/jolinchen/Documents/GitHub/ECE6122-Advanced-Programming-Tech-/opengl/cmake-build-debug/CMakeFiles/hw6.dir/main.cpp.o"
+  "/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/Model.cpp" "/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug/CMakeFiles/hw6.dir/Model.cpp.o"
+  "/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/main.cpp" "/Users/jolinchen/Documents/GitHub/3D-Chess-Based-on-OpenGL/cmake-build-debug/CMakeFiles/hw6.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
